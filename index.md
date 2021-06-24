@@ -14,4 +14,5 @@ Wie ich schon sagte:
 > Das ist Teil einer Aufgabe!
 > Hier wird einiges getestet.
 
-<img src="https://www.efinancialcareers.ch/binaries/content/gallery/efinancial-careers/articles/2019/04/github.jpg">
+## Bild
+<img src="https://de.wikipedia.org/wiki/GitHub#/media/Datei:GitHub_logo_2013.svg">
