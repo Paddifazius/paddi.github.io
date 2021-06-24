@@ -13,3 +13,7 @@ Wie ich schon sagte:
 
 > Das ist Teil einer Aufgabe!
 > Hier wird einiges getestet.
+
+## Bild
+![GitHub Logo](/images/logo.png)
+
